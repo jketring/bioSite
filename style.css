@@ -1,0 +1,57 @@
+html {background-color: hotpink;}
+
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower|Permanent+Marker" rel="stylesheet">
+
+body {
+  width:90%;
+  margin: 0 auto;}
+
+#content {background-color: pink;
+          overflow: hidden;
+          padding:1em;}
+
+#nav, #bio, {margin: 10%;}
+
+#columns {text-align: center;}
+
+.column1, .column2, .column3, .column4 {
+  width: 95%;
+  float: left;
+  margin:1%;
+  padding: 1em;}
+
+  .column1 {margin-top: 1em;}
+
+p {font-family: 'Permanent Marker', cursive;}
+
+li {display: inline;
+    padding: 0.5em;
+    text-align: center;
+    font-family:'Permanent Marker', cursive;}
+
+a {text-decoration: none;}    
+
+#nav, footer {
+  background-color: #efefef;
+  padding: 0.5em 0;}
+
+
+#bio, .article {
+  height: 10em;
+  margin-bottom: 1em;
+  background-color: #efefef;}
+
+.biopic {-webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+  float: left;
+  margin-right: 10px;}
+
+  h1, h2 {font-family: 'Indie Flower', cursive;}
+
+ 
+
+
+        
