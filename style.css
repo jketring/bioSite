@@ -1,0 +1,110 @@
+html {background-color: rgb(202, 90, 148);}
+
+header {width: 96%;
+        padding-bottom: 3em;
+        align-content: center;}
+
+nav {height: 1em;
+     padding: 1em;}
+
+nav ul, footer {text-align: center;
+        background-color: white;
+        padding: 0.5em;
+        border-radius:10px;
+        border-style: solid;
+        border-color: rgb(150, 54, 150);
+        box-shadow: inset 0 0 10px #777777;
+        -moz-box-shadow: inset 0 0 10px #777777;
+        -webkit-box-shadow: inset 0 0 10px #777777; }
+
+a:visited {color: none;}
+
+
+
+
+main {width:99%;
+      margin: 0 auto;}
+
+
+article  {background-color: pink;
+          overflow: hidden;
+          overflow-wrap: normal;
+          padding:1.4em;
+          border-color: rgb(150, 54, 150);
+          border-style: solid;
+          border-width: auto;
+          border-radius: 10px;
+          margin-top: 2%;
+          line-height: 1.5em;
+          box-shadow: inset 0 0 10px #777777;
+          -moz-box-shadow: inset 0 0 10px #777777;
+          -webkit-box-shadow: inset 0 0 10px #777777;}
+
+ .content {column-count: 2;}
+ 
+ 
+ 
+
+
+article h2 {font-family: 'Permanent Marker', cursive;
+            color: rgb(150, 54, 150);
+            text-align: center;
+            text-decoration: underline;
+            line-height: 1.5em;
+            letter-spacing: 0.1em;
+            }
+
+.headerpic {width:100%;
+            height: 200px;
+            margin: auto;
+            border-radius: 85%;}
+
+p {font-family: 'Indie Flower', cursive;
+   color: rgb(150, 54, 150);
+   text-align: center;
+  font-weight: 600;
+  letter-spacing: 0.1em;}
+
+nav li {display: inline;
+    padding: 0.5em;
+    text-align: center;
+    font-family:'Permanent Marker', cursive;
+    font-size: 20px;
+    letter-spacing: 0.05em;
+    }
+
+a:hover {font-size: 125%;}
+
+
+a {text-decoration: none;}    
+
+.travelpic, .kidspic {width: 250px;
+  height: 200px;
+  float: left;
+  padding: 1.5em;
+  border-radius: 50%;}
+
+  .kidspic {float: left;}
+
+.biopic {-webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+  width: 450px;
+  height: 400px;
+  float: left;
+  padding: 1.5em;
+  border-radius: 50%;}
+
+footer {margin-top: 3%;
+        clear:both;}
+
+
+
+ 
+
+ 
+
+
+        
